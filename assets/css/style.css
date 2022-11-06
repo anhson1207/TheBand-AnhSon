@@ -46,6 +46,7 @@
   opacity: 0.9;
   border: none;
   text-align: center;
+  -webkit-appearance: none;
 }
 .btn:hover {
   opacity: 1;
@@ -177,6 +178,7 @@ html {
 #slider .text-description {
   font-size: 15px;
   margin-top: 25px;
+  text-shadow: 0 0 1px #000;
 }
 
 #content {
